@@ -3,6 +3,7 @@
   "resourceVersion": "1.6",
   "name": "Meu Pong",
   "resources": [
+    {"id":{"name":"snd_ponto","path":"sounds/snd_ponto/snd_ponto.yy",},"order":5,},
     {"id":{"name":"spr_rosto","path":"sprites/spr_rosto/spr_rosto.yy",},"order":4,},
     {"id":{"name":"spr_olhos","path":"sprites/spr_olhos/spr_olhos.yy",},"order":5,},
     {"id":{"name":"obj_gol","path":"objects/obj_gol/obj_gol.yy",},"order":5,},

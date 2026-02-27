@@ -1,10 +1,10 @@
 {
   "resourceType": "GMSound",
   "resourceVersion": "1.0",
-  "name": "snd_musica_ambiente",
+  "name": "snd_ponto",
   "conversionMode": 0,
   "compression": 0,
-  "volume": 0.2,
+  "volume": 1.0,
   "preload": false,
   "bitRate": 128,
   "sampleRate": 44100,
@@ -14,8 +14,8 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "snd_musica_ambiente.ogg",
-  "duration": 49.54501,
+  "soundFile": "snd_ponto.wav",
+  "duration": 1.734739,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",

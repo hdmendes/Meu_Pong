@@ -6,4 +6,5 @@ move_bounce_solid(true);
 speed += velocidade_incrementa;
 
 audio_stop_sound(snd_boing);
-audio_play_sound(snd_boing, 0, 0);
+
+audio_play_sound(som_bola, 0, 0);
