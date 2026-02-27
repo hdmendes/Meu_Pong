@@ -1,9 +1,9 @@
-/// @description Inserir descrição aqui
+/// @description Controla a IA
 // Você pode escrever seu código neste editor
 
 if(global.dois_jogadores) exit;
 
-var vel_max = 1.6;
+var vel_max = 2.5;
 
 vspeed = global.vel_v_bola;
 

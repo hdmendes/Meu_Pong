@@ -8,4 +8,4 @@ global.vel_v_bola = 0;
 global.ponto_jogador_um = 0;
 global.ponto_jogador_dois = 0;
 
-global.pontuacao_max = 3;
+global.pontuacao_da_partida = 3;
