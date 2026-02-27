@@ -1,5 +1,6 @@
 /// @description Inserir descrição aqui
 // Você pode escrever seu código neste editor
 
-velocidade = 2.5;
+audio_play_sound(snd_musica_ambiente, 1, 1);
 
+alarm[0] = room_speed * 4;

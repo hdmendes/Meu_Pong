@@ -6,4 +6,4 @@ y = y_inicial;
 
 speed = 0;
 
-alarm[0] = 30;
+instance_destroy(self);

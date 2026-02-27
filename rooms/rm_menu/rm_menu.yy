@@ -28,6 +28,7 @@
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","propertyId":{"name":"um_jogador","path":"objects/obj_botao/obj_botao.yy",},"objectId":{"name":"obj_botao","path":"objects/obj_botao/obj_botao.yy",},"value":"False",},
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","propertyId":{"name":"texto","path":"objects/obj_botao/obj_botao.yy",},"objectId":{"name":"obj_botao","path":"objects/obj_botao/obj_botao.yy",},"value":"2 Jogadores",},
           ],"isDnd":false,"objectId":{"name":"obj_botao","path":"objects/obj_botao/obj_botao.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":320.0,"y":272.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_65B14A2B","properties":[],"isDnd":false,"objectId":{"name":"obj_controlador","path":"objects/obj_controlador/obj_controlador.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":16.0,"y":-48.0,},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":true,"inheritSubLayers":true,"gridX":4,"gridY":4,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
     {"resourceType":"GMRAssetLayer","resourceVersion":"1.0","name":"Rosto","assets":[
         {"resourceType":"GMRSpriteGraphic","resourceVersion":"1.0","name":"graphic_6FAA6C7D_1","spriteId":{"name":"spr_rosto","path":"sprites/spr_rosto/spr_rosto.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":-83.0,},
@@ -45,6 +46,7 @@
     {"name":"inst_B40FA89_1","path":"rooms/rm_menu/rm_menu.yy",},
     {"name":"inst_359FC5DD","path":"rooms/rm_menu/rm_menu.yy",},
     {"name":"inst_585F68B4","path":"rooms/rm_menu/rm_menu.yy",},
+    {"name":"inst_65B14A2B","path":"rooms/rm_menu/rm_menu.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
